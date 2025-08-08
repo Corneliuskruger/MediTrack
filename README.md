@@ -1,4 +1,4 @@
-# myapp
+# supplement_tracker
 
 A new Flutter project.
 

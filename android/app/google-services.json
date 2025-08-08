@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743207245622",
+    "project_id": "meditrack-8dc24",
+    "storage_bucket": "meditrack-8dc24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743207245622:android:52b8410ef2a663a37d8597",
+        "android_client_info": {
+          "package_name": "com.strategiclabs.MediTrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLrFxDYm6AvKH-N0aeOGdCRohw6bRoXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743207245622:android:2355591cdc117fba7d8597",
+        "android_client_info": {
+          "package_name": "com.strategiclabs.MediTrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLrFxDYm6AvKH-N0aeOGdCRohw6bRoXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

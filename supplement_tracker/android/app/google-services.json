@@ -1,0 +1,54 @@
+{
+    "project_info": {
+      "project_number": "743207245622",
+      "project_id": "meditrack-8dc24",
+      "storage_bucket": "meditrack-8dc24.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:743207245622:android:2355591cdc117fba7d8597",
+          "android_client_info": {
+            "package_name": "com.strategiclabs.MediTrack"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "743207245622-qc2eot1ha99nbp67udb6jef7l0aqb629.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.strategiclabs.MediTrack",
+              "certificate_hash": "781a7b6a47555117d43646bb3bb1bfbf52ad81a7"
+            }
+          },
+          {
+            "client_id": "743207245622-bm31j7nllgo300kvujojkro3rqncoo67.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDaLrFxDYm6AvKH-N0aeOGdCRohw6bRoXE"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "743207245622-bm31j7nllgo300kvujojkro3rqncoo67.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "743207245622-3q5stmcb5bed6q3o578k0focs99ro3of.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.strategiclabs.MediTracker"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
